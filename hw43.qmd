@@ -397,3 +397,5 @@ Alt text for all figures in this document was written by the author and embedded
 #| echo: true
 #| eval: false
 ```
+
+# HW 4.3 QMD and PDF files added to repository (refs #2)
