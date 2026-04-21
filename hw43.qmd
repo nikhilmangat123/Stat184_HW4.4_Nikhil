@@ -17,13 +17,14 @@ format:
       - bottom=1in
     colorlinks: true
 bibliography: references.bib
-csl: "/Users/nikhilmangat/HW 4.3/apa7.csl"
+csl: "apa7.csl"
 execute:
   echo: false
   warning: false
 ---
 
 ```{r}
+# Code style: Tidyverse Style Guide (https://style.tidyverse.org/)
 #| label: setup
 #| include: false
 
