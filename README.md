@@ -1,4 +1,4 @@
-# HW 4.3: Reproducible Data Analysis
+# Stat184_HW4.4_Nikhil
 
 ## About This Project
 This repo contains a reproducible data analysis built in Quarto for STAT 184. 
